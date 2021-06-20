@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#hi{
+  background-color:black;
+  color:lime;
+  font-size: 50px;
+  font-family: 'ScriptC';
+}

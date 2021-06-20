@@ -16,8 +16,9 @@ const App = () =>
                         <Route exact path="/contact" component={Contactus}/>
                         <Route exact path="/about" component={Aboutus} />
                         <Route component={Error}/>
+
                 </Switch>
                 </>
-        ); 
+        );
 };
 export default App;
